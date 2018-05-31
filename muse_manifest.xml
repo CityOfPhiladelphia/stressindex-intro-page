@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/stressindex-page" resolutions="1x" timestamp="1527793647186">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://cityofphiladelphia.github.io/stressindex-page" resolutions="1x" timestamp="1527793775603">
   <folder name="css">
     <file name="site_global.css" crc="3899992807"/>
     <file name="index.css" crc="4292113572" ref="index"/>
@@ -65,5 +65,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="502264812" seo="true" mt="1527793631201" redirect="true"/>
+  <file name="index.html" crc="4106435648" seo="true" mt="1527793768143" redirect="true"/>
 </manifest>
